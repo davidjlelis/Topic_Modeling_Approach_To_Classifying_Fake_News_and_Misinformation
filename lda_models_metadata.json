@@ -1,0 +1,130 @@
+[
+    {
+        "Setting Name": "setting_35_250",
+        "num_topics": 35,
+        "chunksize": 250,
+        "Time to Complete True Model (s)": 5.27885890007019,
+        "Time to Complete Fake Model (s)": 8.545409917831421,
+        "Total Time to Complete Models (s)": 13.824268817901611
+    },
+    {
+        "Setting Name": "setting_35_500",
+        "num_topics": 35,
+        "chunksize": 500,
+        "Time to Complete True Model (s)": 4.777306795120239,
+        "Time to Complete Fake Model (s)": 7.328944206237793,
+        "Total Time to Complete Models (s)": 12.106251001358032
+    },
+    {
+        "Setting Name": "setting_35_1000",
+        "num_topics": 35,
+        "chunksize": 1000,
+        "Time to Complete True Model (s)": 4.460170030593872,
+        "Time to Complete Fake Model (s)": 6.990741014480591,
+        "Total Time to Complete Models (s)": 11.450911045074463
+    },
+    {
+        "Setting Name": "setting_35_5000",
+        "num_topics": 35,
+        "chunksize": 5000,
+        "Time to Complete True Model (s)": 5.3174521923065186,
+        "Time to Complete Fake Model (s)": 7.968437910079956,
+        "Total Time to Complete Models (s)": 13.285890102386475
+    },
+    {
+        "Setting Name": "setting_70_250",
+        "num_topics": 70,
+        "chunksize": 250,
+        "Time to Complete True Model (s)": 12.351832866668701,
+        "Time to Complete Fake Model (s)": 16.563817977905273,
+        "Total Time to Complete Models (s)": 28.915650844573975
+    },
+    {
+        "Setting Name": "setting_70_500",
+        "num_topics": 70,
+        "chunksize": 500,
+        "Time to Complete True Model (s)": 9.864029884338379,
+        "Time to Complete Fake Model (s)": 11.664395093917847,
+        "Total Time to Complete Models (s)": 21.528424978256226
+    },
+    {
+        "Setting Name": "setting_70_1000",
+        "num_topics": 70,
+        "chunksize": 1000,
+        "Time to Complete True Model (s)": 9.068230867385864,
+        "Time to Complete Fake Model (s)": 10.622168064117432,
+        "Total Time to Complete Models (s)": 19.690398931503296
+    },
+    {
+        "Setting Name": "setting_70_5000",
+        "num_topics": 70,
+        "chunksize": 5000,
+        "Time to Complete True Model (s)": 9.8590669631958,
+        "Time to Complete Fake Model (s)": 12.262916088104248,
+        "Total Time to Complete Models (s)": 22.12198305130005
+    },
+    {
+        "Setting Name": "setting_100_250",
+        "num_topics": 100,
+        "chunksize": 250,
+        "Time to Complete True Model (s)": 17.248389959335327,
+        "Time to Complete Fake Model (s)": 21.930096864700317,
+        "Total Time to Complete Models (s)": 39.178486824035645
+    },
+    {
+        "Setting Name": "setting_100_500",
+        "num_topics": 100,
+        "chunksize": 500,
+        "Time to Complete True Model (s)": 13.842116832733154,
+        "Time to Complete Fake Model (s)": 15.943126916885376,
+        "Total Time to Complete Models (s)": 29.78524374961853
+    },
+    {
+        "Setting Name": "setting_100_1000",
+        "num_topics": 100,
+        "chunksize": 1000,
+        "Time to Complete True Model (s)": 11.838452100753784,
+        "Time to Complete Fake Model (s)": 13.472614049911499,
+        "Total Time to Complete Models (s)": 25.311066150665283
+    },
+    {
+        "Setting Name": "setting_100_5000",
+        "num_topics": 100,
+        "chunksize": 5000,
+        "Time to Complete True Model (s)": 12.455304861068726,
+        "Time to Complete Fake Model (s)": 14.955810070037842,
+        "Total Time to Complete Models (s)": 27.411114931106567
+    },
+    {
+        "Setting Name": "setting_140_250",
+        "num_topics": 140,
+        "chunksize": 250,
+        "Time to Complete True Model (s)": 20.2573881149292,
+        "Time to Complete Fake Model (s)": 27.626312971115112,
+        "Total Time to Complete Models (s)": 47.88370108604431
+    },
+    {
+        "Setting Name": "setting_140_500",
+        "num_topics": 140,
+        "chunksize": 500,
+        "Time to Complete True Model (s)": 16.59070587158203,
+        "Time to Complete Fake Model (s)": 20.699303150177002,
+        "Total Time to Complete Models (s)": 37.29000902175903
+    },
+    {
+        "Setting Name": "setting_140_1000",
+        "num_topics": 140,
+        "chunksize": 1000,
+        "Time to Complete True Model (s)": 14.568477392196655,
+        "Time to Complete Fake Model (s)": 18.017640829086304,
+        "Total Time to Complete Models (s)": 32.58611822128296
+    },
+    {
+        "Setting Name": "setting_140_500",
+        "num_topics": 140,
+        "chunksize": 500,
+        "Time to Complete True Model (s)": 15.417073965072632,
+        "Time to Complete Fake Model (s)": 20.210561990737915,
+        "Total Time to Complete Models (s)": 35.62763595581055
+    }
+]
